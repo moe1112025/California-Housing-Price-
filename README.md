@@ -9,7 +9,7 @@ A regression dashboard that uses California census block-group features to estim
 
 ## Dashboard preview
 
-![Illustrative dashboard design preview](screenshots/dashboard-preview.png)
+![Illustrative dashboard design preview](screenshots/output.png)
 
 *This image is a design mockup for layout reference, not a screenshot captured from a running app. Replace it with your own live screenshot when you run the project; save that capture as `screenshots/output.png`.*
 
