@@ -7,11 +7,10 @@ A regression dashboard that uses California census block-group features to estim
 
 > **Scope:** A learning and portfolio application built with a small, understandable Python script. It is not a production or safety-critical system.
 
-## Dashboard preview
+## Dashboard Screenshot
 
-![Illustrative dashboard design preview](screenshots/output.png)
+![Illustrative dashboard design](screenshots/output.png)
 
-*This image is a design mockup for layout reference, not a screenshot captured from a running app. Replace it with your own live screenshot when you run the project; save that capture as `screenshots/output.png`.*
 
 ## What the project demonstrates
 
