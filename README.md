@@ -92,7 +92,7 @@ Streamlit prints a local URL in the terminal (normally `http://localhost:8501`).
 ## Project folder structure
 
 ```text
-06_california_housing_app/
+california_housing_app/
 ├──.venv/
 ├── california_housing_app.py
 ├── requirements.txt
